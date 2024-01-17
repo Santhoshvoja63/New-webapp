@@ -56,7 +56,9 @@ start using jenkins
    ![Capture](https://github.com/Santhoshvoja63/New-webapp/assets/147876790/cd399bed-16e4-4f37-9d59-e0b2714d1744)
 5. Then select Build triggers tab
    In build trigger select Github hook trigger for GITScm polling option
-6. In GITHUB create a web hook and give jenkins URL and select git push and git pull option
+   ![Capture2](https://github.com/Santhoshvoja63/New-webapp/assets/147876790/f5bd98ff-2529-4185-b5a5-b5b71a5fe31a)
+
+7. In GITHUB create a web hook and give jenkins URL and select git push and git pull option
    whenver the devloper push the code it will automatically deploy the code.
 
 Step-4
