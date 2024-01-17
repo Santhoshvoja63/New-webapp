@@ -74,7 +74,7 @@ Sample Web application.
 
 Challenges:
 
-I have faced one challege during the setup regarding the copy files to web server directory I got permission denaied issue so I have change to excution permission to this file /html/ directory. then I have issue resolved.
+I have faced one challege during the setup regarding the copy files to web server directory I got permission denied issue so I have change to excution permission to this file /html/ directory. then issue resolved.
    
 
 
