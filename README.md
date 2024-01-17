@@ -70,7 +70,9 @@ Sample Web application.
 ![Capture1](https://github.com/Santhoshvoja63/New-webapp/assets/147876790/cc18a745-9285-473f-879d-8b73056084c3)
 
 
+Challenges:
 
+I have faced one challege during the setup regarding the copy files to web server directory I got permission denaied issue so I have change to excution permission to this file /html/ directory. then I have issue resolved.
    
 
 
