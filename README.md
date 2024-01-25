@@ -64,7 +64,7 @@ start using jenkins
 Step-4
 
 Build Step select Execute shell using below script.
- cp * /var/www/html/
+ sudo cp * /var/www/html/
 Then select Apply and Save
 ![image](https://github.com/Santhoshvoja63/New-webapp/assets/147876790/60b7761a-9733-4029-aa82-78d4de9e68f6)
 
