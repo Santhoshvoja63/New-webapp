@@ -1,3 +1,1 @@
-This is a test file.
-This ia a new file
-updated new version
+updated new version.
